@@ -1,5 +1,5 @@
 import Title from './components/Title';
-import Setup from './examples/3-post-request'
+import Setup from './examples/4-global-instance'
 
 function App() {
   return (
